@@ -1,4 +1,10 @@
 ### Hi there 👋
+My name is **Cycil Paynter** and I go to the **STEAM CENTER** at the **BROOKLYN NAVY YARD**.
+
+My hobbies are playing <ins>videos games, running for fun, and building Gundams</ins>.
+
+My favorite <ins>top 3 fictional characters are 3. Simon 2. metal sonic 1. Perfect Cell</ins>.
+
 
 <!--
 **TIMPRO12/TIMPRO12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
