@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is **Cycil Paynter** and I go to the **STEAM CENTER** at the **BROOKLYN NAVY YARD**.
+My name is **Cycil Paynter**, I'm 17 years old and I go to the **STEAM CENTER** at the **BROOKLYN NAVY YARD**.
 
 My hobbies are playing <ins>videos games, running for fun, and building Gundams</ins>.
 
