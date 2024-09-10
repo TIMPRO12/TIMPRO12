@@ -1,15 +1,15 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Honk&family=Labrada&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
 h1 {
     font-family: 'Honk';
  color: chartreuse;
  text-align: center;
 }
 h2 {
-  font-family: 'Honk';
-color: chartreuse;
+  font-family: 'Roboto Slab';
+color: rgb(143, 58, 183);
 text-align: center;
 }
 
